@@ -47,6 +47,10 @@ const mahi = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,tailwind,react,django,mongodb,mysql,aws,git,github,figma,vscode&perline=9" />
+</p>
+
 <div align="center">
 
 ### 👨‍💻 Languages
@@ -87,22 +91,38 @@ const mahi = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LunaLogic&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunaLogic&theme=radical&hide_border=true" height="170" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaLogic&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LunaLogic&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LunaLogic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunaLogic&theme=tokyonight&hide_border=true" height="180" alt="streak graph"  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LunaLogic&theme=high-contrast&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaLogic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" height="180" alt="languages graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LunaLogic&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophy graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LunaLogic/LunaLogic/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LunaLogic/LunaLogic/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LunaLogic/LunaLogic/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="35" /> Random Dev Meme
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -124,23 +144,24 @@ const mahi = {
 <br/>
 
 <div align="center">
+  <a href="https://github.com/LunaLogic">
+    <img src="https://img.shields.io/github/followers/LunaLogic?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/LunaLogic">
+    <img src="https://img.shields.io/github/stars/LunaLogic?affiliations=OWNER&style=social" alt="GitHub Stars" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=LunaLogic&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" /> Watch My Contribution Graph Get Eaten
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LunaLogic/LunaLogic/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <br/>
