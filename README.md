@@ -38,7 +38,7 @@ const mahi = {
 - 🤝 **Looking to collaborate on:** Web projects & DSA practice
 - 🤝 **Looking for help with:** Optimizing solutions & mastering problem-solving patterns
 - 💬 **Ask me about:** DSA basics, C++, CSS, Tailwind, UI/UX
-- 📫 **Reach me:** [kuku92713@gmail.com](mailto:kuku92713@gmail.com)
+- 📫 **Reach me:** [mahimanoj1107@gmail.com](mailto:kuku92713@gmail.com)
 - ⚡ **Fun fact:** Girl power in tech! 💪✨
 
 <br clear="both"/>
